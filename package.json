@@ -1,0 +1,11 @@
+{
+  "name": "style-jsx-loader",
+  "version": "1.0.0",
+  "description": "在jsx的style标签写css",
+  "main": "index.js",
+  "author": "MyNodeJs",
+  "devDependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "license": "MIT"
+}
